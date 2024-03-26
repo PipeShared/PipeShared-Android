@@ -1,0 +1,1 @@
+ClipboardShared for Android.
