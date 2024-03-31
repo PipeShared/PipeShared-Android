@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">ClipboardShared</string>
+    <string name="app_github">在 &lt;a href=\"https://github.com/ClipboardShared/ClipboardShared-Android\"&gt;GitHub&lt;/a&gt; 查看源码</string>
+    <string name="connect">连接</string>
+    <string name="server_ip">服务器公网IP</string>
+    <string name="not_connect">未连接</string>
+    <string name="connect_desc">连接状态</string>
+    <string name="login">登录</string>
+    <string name="logout">登出</string>
+</resources>

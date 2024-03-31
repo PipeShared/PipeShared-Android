@@ -1,4 +1,11 @@
 <resources>
-    <string name="app_name">ClipboardShared</string>
-    <string name="connect_server">连接</string>
+    <string name="app_name" translatable="false">ClipboardShared</string>
+    <string name="app_version" translatable="false">%1$s(%2$s)</string>
+    <string name="app_github">View source code on &lt;a href=\"https://github.com/ClipboardShared/ClipboardShared-Android\"&gt;GitHub&lt;/a&gt;</string>
+    <string name="connect">Connect</string>
+    <string name="server_ip">Server IP</string>
+    <string name="not_connect">Not Connect</string>
+    <string name="connect_desc">Connect Status</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
 </resources>
